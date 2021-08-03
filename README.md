@@ -3,8 +3,10 @@
 - 📫 How to reach me Telegram:@Zahid_C
 
 
-⏰This week I spent my time on
-
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zahid_C&custom_title=Zahid's%20Week%20Stats&hide_title=true&hide_border=true&langs_count=4)
-
-<img src='https://profile-counter.glitch.me/Zahid/count.svg' width='0px'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zahid-C&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Zahid's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-C&layout=compact&theme=material-palenight" />
+</a>
