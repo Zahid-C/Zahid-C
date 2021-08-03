@@ -5,6 +5,6 @@
 
 ⏰This week I spent my time on
 
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zahid_C&custom_title=Zahid's%20Week%20Stats&hide_title=false&hide_border=false&langs_count=5)
+![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zahid_C&custom_title=Zahid's%20Week%20Stats&hide_title=true&hide_border=true&langs_count=4)
 
 <img src='https://profile-counter.glitch.me/Zahid/count.svg' width='0px'>
