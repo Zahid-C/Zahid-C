@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zahid
-- 🌱 I’m currently learning Python🐍
+- 🌱 I’m currently learning Java☕
 - 📫 How to reach me Telegram:@Zahid_C
 
 
